@@ -1,0 +1,41 @@
+ID,Name,TSN,Coordinates,Number of spots,Update Frequency
+1,Tallawong Station Car Park (Historical Only),2155384,-33.69163 150.906022,1004,60s
+2,Kellyville Station Car Park (Historical Only),2155382,-33.713514 150.935304,1374,60s
+3,Bella Vista Station Car Park (Historical Only),2153478,-33.730592 150.944024,800,60s
+4,Hills Showground Station Car Park (Historical Only),2154392,-33.72782 150.987345,600,60s
+5,Cherrybrook Station Car Park (Historical Only),2126158,-33.736703 151.031977,400,60s
+6,Park&Ride - Gordon Henry St (north),207210,-33.756009 151.154528,213,15s
+7,Park&Ride - Kiama,253330,-34.672518 150.854695,42,15s
+8,Park&Ride - Gosford,225040,-33.423883 151.341711,1057,On counter change
+9,Park&Ride - Revesby,221210,-33.95246 151.014838,934,On counter change or every 10mins
+10,Park&Ride - Warriewood,2101131,33.697777 151.300667,244,15s
+11,Park&Ride - Narrabeen,2101130,-33.713514 151.297315,46,On counter change or every 10mins
+12,Park&Ride - Mona Vale,2103108,-33.677276 151.305146,68,15s
+13,Park&Ride - Dee Why,2099207,-33.752797 151.286485,117,On counter change or every 10mins
+14,Park&Ride - West Ryde,211420,-33.807172 151.090229,151,On counter change or every 10mins
+15,Park&Ride - Sutherland East Parade,223210,-34.031787 151.05719,373,On counter change
+16,Park&Ride - Leppington,217933,-33.9544 150.8081,1884,On counter change or every 10mins
+17,Park&Ride - Edmondson Park (south),217426,-33.9693 150.8587,1431,On counter change or every 10mins
+18,Park&Ride - St Marys,276010,-33.762256 150.776029,682,On counter change
+19,Park&Ride - Campbelltown Farrow Rd (north),256020,-34.063835 150.813929,68,On counter change or every 10mins
+20,Park&Ride - Campbelltown Hurley St,256020,-34.063835 150.813929,118,On counter change or every 10mins
+21,Park&Ride - Penrith (at-grade),275010,-33.750055 150.696135,230,On counter change or every 10mins
+22,Park&Ride - Penrith (multi-level),275010,-33.750055 150.696135,1144,On counter change or every 10mins
+23,Park&Ride - Warwick Farm,217010,-33.91345 150.935036,910,On counter change
+24,Park&Ride - Schofields,276220,-33.704477 150.873817,700,On counter change or every 10mins
+25,Park&Ride - Hornsby,207720,-33.702801 151.098494,145,On counter change or every 10mins
+26,Park&Ride - Tallawong P1,2155384,-33.69163 150.906022,121,On counter change or every 10mins
+27,Park&Ride - Tallawong P2,2155384,-33.69163 150.906022,455,On counter change or every 10mins
+28,Park&Ride - Tallawong P3,2155384,-33.69163 150.906022,397,On counter change or every 10mins
+29,Park&Ride - Kellyville (north),2155382,-33.713514 150.935304,351,On counter change or every 10mins
+30,Park&Ride - Kellyville (south),2155382,-33.713514 150.935304,964,On counter change or every 10mins
+31,Park&Ride - Bella Vista,2153478,-33.730592 150.944024,777,On counter change or every 10mins
+32,Park&Ride - Hills Showground,2154392,-33.72782 150.987345,584,On counter change or every 10mins
+33,Park&Ride - Cherrybrook,2126158,-33.736703 151.031977,384,On counter change or every 10mins
+34,Park&Ride – Lindfield Village Green,207010,-33.775185 151.169111,94,On counter change or every 10mins
+35,Park&Ride – Beverly Hills,220910,-33.948849 151.081692,200,On counter change or every 10mins
+486,Park&Ride – Ashfield,213110,-33.8875506079 151.125504163,225,On counter change or every 10mins
+487,Park&Ride – Kogarah,221710,-33.9621493059 151.132641462,259,On counter change or every 10mins
+488,Park&Ride – Seven Hills,214710,-33.774430434 150.936513359,1613,On counter change or every 10mins
+489,Park&Ride – Manly Vale (Parent Stop TSN),2093117,-33.786247 151.26671,142,On counter change or every 10mins
+490,Park&Ride – Brookvale,210020,-33.767508 151.268541,246,On counter change or every 10mins

@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: MCP Server",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/assignment4/server.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python Debugger: MCP Client",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/assignment4/talk2mcp-2.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python Debugger: MCP Client Multiple",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/assignment4/talk2mcp_multiple.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python Debugger: Gmail Server",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/assignment4/gmail_server.py",
+            "args": [
+                "--creds-file-path",
+                "${workspaceFolder}/assignment4/credentials.json",
+                "--token-path",
+                "${workspaceFolder}/assignment4/token.json"
+            ],
+            "console": "integratedTerminal"
+        }
+    ]
+}
