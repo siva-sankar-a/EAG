@@ -8,33 +8,33 @@
             "name": "Python Debugger: MCP Server",
             "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/assignment4/server.py",
+            "program": "${workspaceFolder}/assignment5/server.py",
             "console": "integratedTerminal"
         },
         {
             "name": "Python Debugger: MCP Client",
             "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/assignment4/talk2mcp-2.py",
+            "program": "${workspaceFolder}/assignment5/talk2mcp-2.py",
             "console": "integratedTerminal"
         },
         {
             "name": "Python Debugger: MCP Client Multiple",
             "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/assignment4/talk2mcp_multiple.py",
+            "program": "${workspaceFolder}/assignment5/talk2mcp_multiple.py",
             "console": "integratedTerminal"
         },
         {
             "name": "Python Debugger: Gmail Server",
             "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/assignment4/gmail_server.py",
+            "program": "${workspaceFolder}/assignment5/gmail_server.py",
             "args": [
                 "--creds-file-path",
-                "${workspaceFolder}/assignment4/credentials.json",
+                "${workspaceFolder}/assignment5/credentials.json",
                 "--token-path",
-                "${workspaceFolder}/assignment4/token.json"
+                "${workspaceFolder}/assignment5/token.json"
             ],
             "console": "integratedTerminal"
         }
